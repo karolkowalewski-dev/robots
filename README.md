@@ -1,3 +1,2 @@
 # robofriends
-Tutorial for udemy course - React
-(check out link above)
+Playing around whith course project - React
