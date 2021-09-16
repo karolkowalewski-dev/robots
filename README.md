@@ -1,2 +1,2 @@
 # robofriends
-Playing around whith course project - React
+Exercise whith course project - React
